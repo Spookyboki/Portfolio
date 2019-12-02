@@ -10,3 +10,18 @@
 .main {
   height: 600px !important;
 }
+
+.my-list {
+  list-style: disc;
+  border-bottom: 1px solid grey !important;
+}
+
+.sub-list {
+  list-style: none !important;
+}
+
+@media only screen and (max-width: 769px) {
+  .image {
+    height: 186px !important;
+  }
+}
