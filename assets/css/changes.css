@@ -1,0 +1,27 @@
+.education-title:hover {
+  color: rgb(24, 191, 239) !important;
+  transition: .4s;
+}
+
+.image {
+  height: 300px !important;
+}
+
+.main {
+  height: 443px !important;
+}
+
+.my-list {
+  list-style: disc;
+  border-bottom: 1px solid grey !important;
+}
+
+.sub-list {
+  list-style: none !important;
+}
+
+@media only screen and (max-width: 769px) {
+  .image {
+    height: 186px !important;
+  }
+}
