@@ -1,0 +1,12 @@
+.education-title:hover {
+  color: rgb(24, 191, 239) !important;
+  transition: .4s;
+}
+
+.image {
+  height: 350px !important;
+}
+
+.main {
+  height: 600px !important;
+}
